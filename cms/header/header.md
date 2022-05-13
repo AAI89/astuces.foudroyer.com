@@ -3,18 +3,12 @@ type: header
 logo:
   src: ../assets/logo.svg
   alt: logo de foudroyer
-tabs:
-  - type: follow
-    theme: link
-    label: Tutoriels
-    url: /tutoriels
-    rel: follow
-    target: self
+tabs: []
 right:
   - type: follow
     theme: button
-    label: Créer un site gratuitement
-    url: https://app.netlify.com/start/deploy?repository=https://github.com/foudroyerdotcom/purity.foudroyer.com&stack=cms
+    label: Nous contacter
+    url: /nous-contacter
     rel: follow
     target: blank
 ---
