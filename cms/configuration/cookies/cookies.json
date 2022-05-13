@@ -3,7 +3,7 @@
   "description": "Les cookies sont essentiels pour vous offrir une expérience personnalisée et améliorer le site Doctrine. Vous pouvez accepter ou refuser tous les cookies ou paramétrer vos préférences en cliquant ci-dessous.",
   "to": {
     "label": "Lire notre politique de confidentialité",
-    "url": "/policy",
+    "url": "/politique-de-confidentialite/",
     "type": "follow",
     "rel": "obfuscated",
     "target": "blank"
